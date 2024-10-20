@@ -1,0 +1,42 @@
+20.10.2024  14:49    <DIR>          .
+20.10.2024  14:53    <DIR>          ..
+05.06.2024  03:18             1 500 AnnotationManager
+19.10.2024  11:00    <DIR>          APIUpdater
+20.10.2024  14:49        67 108 864 ArtifactDB
+19.10.2024  11:00             8 192 ArtifactDB-lock
+19.10.2024  11:00    <DIR>          Artifacts
+20.10.2024  12:28    <DIR>          Bee
+05.06.2024  03:18                 0 BuildPlayer.prefs
+19.10.2024  15:14    <DIR>          BuildPlayerData
+05.06.2024  03:18             2 040 BuildSettings.asset
+19.10.2024  15:14    <DIR>          BurstCache
+20.10.2024  12:28               182 EditorOnlyScriptingSettings.json
+05.06.2024  03:17                79 EditorOnlyVirtualTextureState.json
+20.10.2024  14:49               546 EditorSnapSettings.asset
+20.10.2024  14:07             8 180 EditorUserBuildSettings.asset
+20.10.2024  14:49               824 expandedItems
+19.10.2024  11:01    <DIR>          GridBrush
+20.10.2024  12:23                 5 ilpp.pid
+19.10.2024  21:09             1 012 InspectorExpandedItems.asset
+20.10.2024  12:28           215 133 LastBuild.buildreport
+20.10.2024  14:49                90 LastSceneManagerSetup.txt
+19.10.2024  11:00                65 LibraryFormatVersion.txt
+05.06.2024  03:18             2 576 MonoManager.asset
+20.10.2024  14:07    <DIR>          PackageCache
+19.10.2024  11:00    <DIR>          PackageManager
+20.10.2024  12:28    <DIR>          PlayerDataCache
+20.10.2024  14:49             4 436 SceneVisibilityState.asset
+19.10.2024  11:31    <DIR>          ScriptAssemblies
+20.10.2024  12:24            12 001 ScriptMapper
+20.10.2024  12:28    <DIR>          Search
+20.10.2024  12:23    <DIR>          ShaderCache
+05.06.2024  03:19            16 384 ShaderCache.db
+20.10.2024  14:49         8 388 608 SourceAssetDB
+19.10.2024  11:00             8 192 SourceAssetDB-lock
+19.10.2024  15:14    <DIR>          SplashScreenCache
+20.10.2024  12:38             2 952 SpriteAtlasDatabase.asset
+19.10.2024  13:27    <DIR>          StateCache
+05.06.2024  03:19           245 812 Style.catalog
+19.10.2024  11:00    <DIR>          TempArtifacts
+              23 File(s)     76 027 673 bytes
+              17 Dir(s)  544 832 073 728 bytes free
